@@ -1,0 +1,111 @@
+# Student Grade Calculator - Test Cases
+
+## Test Case 1: Grade A
+
+**Input:**
+
+* Student Name: Aniket
+* Marks: 95
+
+**Expected Output:**
+
+* Grade: A
+* Message: Excellent! Outstanding performance! 🌟
+
+---
+
+## Test Case 2: Grade B
+
+**Input:**
+
+* Student Name: Viren
+* Marks: 85
+
+**Expected Output:**
+
+* Grade: B
+* Message: Very Good! Keep it up! 👍
+
+---
+
+## Test Case 3: Grade C
+
+**Input:**
+
+* Student Name: Abhijeet
+* Marks: 75
+
+**Expected Output:**
+
+* Grade: C
+* Message: Good Job! Keep learning. 😊
+
+---
+
+## Test Case 4: Grade D
+
+**Input:**
+
+* Student Name: Siddhant
+* Marks: 65
+
+**Expected Output:**
+
+* Grade: D
+* Message: Keep practicing! You're improving! 💪
+
+---
+
+## Test Case 5: Grade F
+
+**Input:**
+
+* Student Name: Amit
+* Marks: 45
+
+**Expected Output:**
+
+* Grade: F
+* Message: Don't give up. Study harder! 📚
+
+---
+
+## Test Case 6: Invalid Marks (Greater than 100)
+
+**Input:**
+
+* Student Name: Raj
+* Marks: 110
+
+**Expected Output:**
+
+* Error Message: Marks must be between 0 and 100.
+* Program asks the user to enter marks again.
+
+---
+
+## Test Case 7: Invalid Marks (Negative Value)
+
+**Input:**
+
+* Student Name: Karan
+* Marks: -10
+
+**Expected Output:**
+
+* Error Message: Marks must be between 0 and 100.
+* Program asks the user to enter marks again.
+
+---
+
+## Test Case 8: Invalid Input (Non-Numeric)
+
+**Input:**
+
+* Student Name: Rohit
+* Marks: abc
+
+**Expected Output:**
+
+* Error Message: Invalid input! Please enter numbers only.
+* Program asks the user to enter marks again.

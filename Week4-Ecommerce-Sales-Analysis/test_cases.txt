@@ -1,0 +1,59 @@
+TEST CASES
+
+Test Case 1
+Input:
+Valid sales_data.csv
+
+Expected Result:
+Dataset loads successfully.
+
+Status:
+Passed
+
+-----------------------------------
+
+Test Case 2
+Input:
+CSV file missing
+
+Expected Result:
+Displays "Dataset file not found."
+
+Status:
+Passed
+
+-----------------------------------
+
+Test Case 3
+Input:
+Dataset with duplicate rows
+
+Expected Result:
+Duplicate rows removed.
+
+Status:
+Passed
+
+-----------------------------------
+
+Test Case 4
+Input:
+Dataset with missing values
+
+Expected Result:
+Missing values removed.
+
+Status:
+Passed
+
+-----------------------------------
+
+Test Case 5
+Input:
+Generate Charts
+
+Expected Result:
+Three charts saved in visualizations folder.
+
+Status:
+Passed
