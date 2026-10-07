@@ -539,15 +539,8 @@ The project provides practical experience in building and evaluating classificat
 
 **Viren Wankhade**
 
-Aspiring Data Analyst | Data Scientist
+Aspiring Data Analyst | Data Science Enthusiast
+- GitHub: https://github.com/viren689
+- Portfolio: https://viren-portfolio-gamma.vercel.app/
+- Email: viren19271@gmail.com
 
-### Connect With Me
-
-- GitHub: [Your GitHub Profile](https://github.com/viren689)
-- Portfolio: [My Portfolio](https://viren-portfolio-gamma.vercel.app/)
-
----
-
-## ⭐ Acknowledgment
-
-This project was completed as part of the **The Developers Arena – Week 10 Machine Learning Project**.
